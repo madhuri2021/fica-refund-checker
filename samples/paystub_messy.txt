@@ -1,0 +1,16 @@
+SYNTHETIC DATA - not a real employee. Different payroll provider, table layout.
+
+GLOBEX INC                         Statement of Earnings and Deductions
+Jane Doe                           Check Date 06/05/2026
+Period Beginning  05/15/2026       Period Ending  05/28/2026
+
+EARNINGS            Hours    Rate       Current        YTD
+Regular             80.00    37.50     3,000.00     30,000.00
+
+TAXES                                   Current        YTD
+Fed Withholding                          312.40      3,124.00
+OASDI                                    186.00      1,116.00
+Med EE                                    43.50        261.00
+TX SUI                                     0.00          0.00
+
+NET PAY                                2,458.10

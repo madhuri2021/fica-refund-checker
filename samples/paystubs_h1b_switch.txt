@@ -1,0 +1,32 @@
+SYNTHETIC DATA - not a real employee. Acme Corp payroll export.
+
+ACME CORP  |  EARNINGS STATEMENT
+Employee: Jane Doe (ID 0042)
+Pay Period: 05/01/2026 - 05/14/2026
+Pay Date: 05/17/2026
+Gross Pay: $3,000.00
+Federal Income Tax: $312.40
+Social Security Tax: $186.00
+Medicare Tax: $43.50
+Net Pay: $2,458.10
+YTD Gross: $27,000.00
+
+ACME CORP  |  EARNINGS STATEMENT
+Employee: Jane Doe (ID 0042)
+Pay Period: 09/24/2026 - 10/07/2026
+Pay Date: 10/10/2026
+Gross Pay: $3,000.00
+Federal Income Tax: $312.40
+Social Security Tax: $186.00
+Medicare Tax: $43.50
+Net Pay: $2,458.10
+
+ACME CORP  |  EARNINGS STATEMENT
+Employee: Jane Doe (ID 0042)
+Pay Period: 10/08/2026 - 10/21/2026
+Pay Date: 10/24/2026
+Gross Pay: $3,000.00
+Federal Income Tax: $312.40
+Social Security Tax: $0.00
+Medicare Tax: $0.00
+Net Pay: $2,687.60

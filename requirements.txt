@@ -1,0 +1,4 @@
+# Core engine uses only the Python standard library (3.10+).
+jupyter       # to open demo.ipynb
+pytest        # to run tests/
+anthropic     # optional: AI paystub reading. Without it, the tool runs in MOCK mode.
